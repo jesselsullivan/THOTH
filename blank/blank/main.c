@@ -1,15 +1,15 @@
 //
-//  main.cpp
-//  THOTH
+//  main.c
+//  blank
 //
-//  Created by Jesse Sullivan on 2/27/17.
+//  Created by Jesse Sullivan on 4/6/17.
 //  Copyright © 2017 Jesse Sullivan. All rights reserved.
 //
 
-#include <iostream>
+#include <stdio.h>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    printf("Hello, World!\n");
     return 0;
 }
